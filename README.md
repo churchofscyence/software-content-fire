@@ -7,3 +7,6 @@ In the package.json there is variable in the script key set to "nodemon server.j
 ```
 $ npm run devStart
 ```
+
+# References  
+* [Learn Express JS In 35 Minutes - Web Dev Simplified - YouTube](https://www.youtube.com/watch?v=SccSCuHhOw0)
